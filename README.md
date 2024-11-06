@@ -82,4 +82,4 @@ git --version <br>
 Para verificar a versão instalada.
 
 
-by: [Germeson Martins](https://github.com/codemartins) 06/11/2024
+by: [Germeson Martins](https://github.com/germeson-martins) 06/11/2024
